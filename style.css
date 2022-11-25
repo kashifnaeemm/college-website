@@ -1,8 +1,15 @@
 *{margin: 0;
 padding: 0;
 font-family: 'Poppins', sans-serif;}
+
+body{
+    width: 1348px;
+    margin: auto;
+}
+
+
 .header{
-width: 100%;
+
 background-color: gray;
 
 }
